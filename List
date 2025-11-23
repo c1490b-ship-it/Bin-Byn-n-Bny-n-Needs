@@ -1,0 +1,23 @@
+byn-project/
+│
+├── bin/               # Executable scripts (CLI, launchers)
+│   └── run
+│
+├── lib/               # Core logic, modules, classes
+│   └── core.py
+│
+├── ext/               # Extensions, plugins, optional modules
+│   └── sample_ext.py
+│
+├── config/            # Config files, JSON, YAML, environment
+│   └── settings.json
+│
+├── tests/             # Automated tests
+│   └── test_core.py
+│
+├── data/              # Data storage, logs, temp files
+│   └── .gitkeep
+│
+├── README.md          # Project info
+├── requirements.txt   # Python dependencies
+└── setup.py           # Packaging installer (optional)
