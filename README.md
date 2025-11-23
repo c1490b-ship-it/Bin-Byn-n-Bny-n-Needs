@@ -1,2 +1,7 @@
-# Bin-Byn-n-Bny-n-Needs
-Bin--evrtything
+# BYN Project Template
+
+Run with:
+
+```
+python3 bin/run
+```
